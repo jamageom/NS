@@ -1,0 +1,6 @@
+# Classical Cryptography Toolkit
+# Python 3.10+ — Standard Library Only (tkinter for GUI)
+# No third-party packages required for core functionality.
+
+# Optional: install pytest for structured test runs
+# pytest>=7.0

@@ -1,0 +1,16 @@
+This is a sample plaintext file for the Classical Cryptography Toolkit.
+
+Network Security is a critical field of study in modern computer science.
+Classical ciphers form the foundation of cryptographic knowledge.
+
+The eight ciphers implemented are:
+1. Caesar Cipher       - Simple shift substitution
+2. Monoalphabetic      - Fixed letter substitution
+3. Playfair            - Digraph substitution (5x5 matrix)
+4. Hill                - Matrix multiplication cipher
+5. Vigenere            - Polyalphabetic substitution
+6. One-Time Pad        - Theoretically unbreakable
+7. Rail Fence          - Zig-zag transposition
+8. Columnar            - Keyword-based column transposition
+
+"The art of secret communication is as old as civilization itself."
