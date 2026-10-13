@@ -4,3 +4,5 @@
 
 # Optional: install pytest for structured test runs
 # pytest>=7.0
+Flask>=3.0,<4.0
+gunicorn>=22.0,<24.0
